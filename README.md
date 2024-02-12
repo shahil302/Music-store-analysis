@@ -1,1 +1,1 @@
-#SQL Music store Analysis using SQL
+SQL Music store Analysis using SQL
